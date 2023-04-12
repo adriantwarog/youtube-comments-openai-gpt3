@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "googleapis": "^114.0.0",
+    "mysql2": "^3.2.0",
+    "openai": "^3.2.1"
+  }
+}
